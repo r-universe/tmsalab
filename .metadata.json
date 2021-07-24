@@ -1,0 +1,34 @@
+[
+  {
+    "package": "cIRT",
+    "oncran": true
+  },
+  {
+    "package": "dina",
+    "oncran": true
+  },
+  {
+    "package": "edina",
+    "oncran": true
+  },
+  {
+    "package": "edmdata",
+    "oncran": true
+  },
+  {
+    "package": "errum",
+    "oncran": true
+  },
+  {
+    "package": "fourPNO",
+    "oncran": true
+  },
+  {
+    "package": "iccbeta",
+    "oncran": true
+  },
+  {
+    "package": "simcdm",
+    "oncran": true
+  }
+]
