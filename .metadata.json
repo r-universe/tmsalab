@@ -28,6 +28,10 @@
     "oncran": true
   },
   {
+    "package": "ohoegdm",
+    "oncran": true
+  },
+  {
     "package": "simcdm",
     "oncran": true
   }

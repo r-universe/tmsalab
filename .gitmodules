@@ -38,6 +38,11 @@
 	url = https://github.com/tmsalab/iccbeta
 	shallow = true
 	registered = true
+[submodule "ohoegdm"]
+	path = ohoegdm
+	url = https://github.com/tmsalab/ohoegdm
+	shallow = true
+	registered = true
 [submodule "simcdm"]
 	path = simcdm
 	url = https://github.com/tmsalab/simcdm
