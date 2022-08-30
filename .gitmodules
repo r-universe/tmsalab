@@ -33,6 +33,11 @@
 	url = https://github.com/tmsalab/fourpno
 	shallow = true
 	registered = true
+[submodule "hmcdm"]
+	path = hmcdm
+	url = https://github.com/tmsalab/hmcdm
+	shallow = true
+	registered = true
 [submodule "iccbeta"]
 	path = iccbeta
 	url = https://github.com/tmsalab/iccbeta

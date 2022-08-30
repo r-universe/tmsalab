@@ -24,6 +24,10 @@
     "oncran": true
   },
   {
+    "package": "hmcdm",
+    "oncran": true
+  },
+  {
     "package": "iccbeta",
     "oncran": true
   },
