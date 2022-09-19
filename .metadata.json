@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "dina",
+    "oncran": true
+  },
+  {
     "package": "edina",
     "oncran": true
   },

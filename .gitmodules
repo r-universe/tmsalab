@@ -8,6 +8,11 @@
 	url = https://github.com/tmsalab/cirt
 	shallow = true
 	registered = true
+[submodule "dina"]
+	path = dina
+	url = https://github.com/tmsalab/dina
+	shallow = true
+	registered = true
 [submodule "edina"]
 	path = edina
 	url = https://github.com/tmsalab/edina
