@@ -1,5 +1,17 @@
 [
   {
+    "package": "ohoegdm",
+    "oncran": true
+  },
+  {
+    "package": "edmdata",
+    "oncran": true
+  },
+  {
+    "package": "simcdm",
+    "oncran": true
+  },
+  {
     "package": "cIRT",
     "oncran": true
   },
@@ -8,15 +20,11 @@
     "oncran": true
   },
   {
-    "package": "edina",
-    "oncran": true
-  },
-  {
-    "package": "edmdata",
-    "oncran": true
-  },
-  {
     "package": "errum",
+    "oncran": true
+  },
+  {
+    "package": "edina",
     "oncran": true
   },
   {
@@ -24,19 +32,11 @@
     "oncran": true
   },
   {
-    "package": "hmcdm",
-    "oncran": true
-  },
-  {
     "package": "iccbeta",
     "oncran": true
   },
   {
-    "package": "ohoegdm",
-    "oncran": true
-  },
-  {
-    "package": "simcdm",
+    "package": "hmcdm",
     "oncran": true
   }
 ]
