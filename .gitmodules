@@ -1,55 +1,34 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "cIRT"]
 	path = cIRT
 	url = https://github.com/tmsalab/cirt
-	shallow = true
-	registered = true
 [submodule "dina"]
 	path = dina
 	url = https://github.com/tmsalab/dina
-	shallow = true
-	registered = true
 [submodule "edina"]
 	path = edina
 	url = https://github.com/tmsalab/edina
-	shallow = true
-	registered = true
 [submodule "edmdata"]
 	path = edmdata
 	url = https://github.com/tmsalab/edmdata
-	shallow = true
-	registered = true
 [submodule "errum"]
 	path = errum
 	url = https://github.com/tmsalab/errum
-	shallow = true
-	registered = true
 [submodule "fourPNO"]
 	path = fourPNO
 	url = https://github.com/tmsalab/fourpno
-	shallow = true
-	registered = true
 [submodule "hmcdm"]
 	path = hmcdm
 	url = https://github.com/tmsalab/hmcdm
-	shallow = true
-	registered = true
 [submodule "iccbeta"]
 	path = iccbeta
 	url = https://github.com/tmsalab/iccbeta
-	shallow = true
-	registered = true
 [submodule "ohoegdm"]
 	path = ohoegdm
 	url = https://github.com/tmsalab/ohoegdm
-	shallow = true
-	registered = true
 [submodule "simcdm"]
 	path = simcdm
 	url = https://github.com/tmsalab/simcdm
-	shallow = true
-	registered = true
