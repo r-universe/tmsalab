@@ -35,3 +35,6 @@
 [submodule "simcdm"]
 	path = simcdm
 	url = https://github.com/tmsalab/simcdm
+[submodule "slcm"]
+	path = slcm
+	url = https://github.com/tmsalab/slcm
