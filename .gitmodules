@@ -17,15 +17,9 @@
 [submodule "errum"]
 	path = errum
 	url = https://github.com/tmsalab/errum
-[submodule "fourPNO"]
-	path = fourPNO
-	url = https://github.com/tmsalab/fourpno
 [submodule "hmcdm"]
 	path = hmcdm
 	url = https://github.com/tmsalab/hmcdm
-[submodule "iccbeta"]
-	path = iccbeta
-	url = https://github.com/tmsalab/iccbeta
 [submodule "ohoegdm"]
 	path = ohoegdm
 	url = https://github.com/tmsalab/ohoegdm
