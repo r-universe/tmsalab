@@ -20,6 +20,9 @@
 [submodule "hmcdm"]
 	path = hmcdm
 	url = https://github.com/tmsalab/hmcdm
+[submodule "iccbeta"]
+	path = iccbeta
+	url = https://github.com/tmsalab/iccbeta
 [submodule "ohoegdm"]
 	path = ohoegdm
 	url = https://github.com/tmsalab/ohoegdm
